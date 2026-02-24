@@ -1,5 +1,17 @@
 //var (Old way – ES5)
 
+/*
+✅ Features:
+
+Function scoped
+
+Can be re-declared
+
+Can be updated
+
+Gets hoisted (moved to top internally)
+*/
+
 var name = "Priansha";
 var name = "rawat"; // This is allowed ✅
 
